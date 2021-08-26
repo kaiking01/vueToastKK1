@@ -1,13 +1,15 @@
-# vuetotastkk
+# vuetotastkk1
 
 ## A mobile toast plugin for vue
 
 ## Useage
 
 ```javascript
-import vuetotastkk from 'vuetotastkk'
+npm install vuetotastkk1
 
-Vue.use(vuetotastkk)
+import vuetotastkk1 from 'vuetotastkk1'
+
+Vue.use(vuetotastkk1)
 
 this.$toast.show("hello, toast")
 
