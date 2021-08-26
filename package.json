@@ -1,6 +1,6 @@
 {
   "name": "vuetoastkk1",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "## A mobile toast plugin for vue",
   "main": "lib/index.js",
   "scripts": {
