@@ -1,8 +1,8 @@
 {
   "name": "vuetoastkk1",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "## A mobile toast plugin for vue",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "finish": "git add . && git commit -m 'modify' && git push origin master && npm publish",
     "test": "echo \"Error: no test specified\" && exit 1"
